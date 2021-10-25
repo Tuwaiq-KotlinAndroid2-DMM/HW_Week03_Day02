@@ -12,8 +12,3 @@ Output:
 -
 <img src="spinner.gif" alt="drawing" width="400"/>
 
-
-# Learning Resources  📚
-* [Spinner in kotlin](https://www.geeksforgeeks.org/spinner-in-kotlin/)
-
-
